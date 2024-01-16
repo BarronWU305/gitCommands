@@ -1,2 +1,8 @@
 #The following file will contain a list of commands that should be helpful while using GIT. Below will be the basics of git along with different commands that may be helpful. 
 
+GIT Basics: 
+git add 
+git commit 
+git push 
+git pull 
+git init 
